@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Demo
 
-You can view a live demo of the application here: [Your Demo Link](http://your-demo-link.com).
+You can view a live demo of the application here: [Demo Link](http://your-demo-link.com).
